@@ -1,5 +1,4 @@
 
-```markdown
 # Assistant Virtuel pour la Recommandation et le Suivi des Produits Agro-alimentaires
 
 ## Description
