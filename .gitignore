@@ -1,0 +1,8 @@
+# Dossiers à ignorer
+node_modules/
+env/
+.vscode/
+
+# Fichiers spécifiques
+*.pyc
+__pycache__/
