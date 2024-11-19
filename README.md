@@ -63,7 +63,7 @@ Ce projet vise à développer un assistant virtuel basé sur le Machine Learning
 
 ## Structure du projet
 ```
-ASSIS/
+Assitant-Virtuel/
 ├── chatbot1/               # Dossier pour le frontend (React)
 ├── env/                    # Environnement virtuel (ignoré dans .gitignore)
 ├── .gitignore              # Fichier pour ignorer certains dossiers/fichiers dans Git
